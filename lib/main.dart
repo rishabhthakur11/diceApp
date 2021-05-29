@@ -6,7 +6,7 @@ void main() {
   return runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.Blue,
         appBar: AppBar(
           title: Text('Dice'),
           backgroundColor: Colors.black,
